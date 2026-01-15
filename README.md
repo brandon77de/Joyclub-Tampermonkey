@@ -1,2 +1,7 @@
-# Joyclub-Tampermonkey
-Tampermonkey zur Anpassung der Darstellung in joyclub.de
+# Joyclub Tampermonkey Scripts
+Tampermonkey Userscripts zur Anpassung der Darstellung in joyclub.de
+
+*Events
+*Kontakte
+*Farben
+*Dashboard
